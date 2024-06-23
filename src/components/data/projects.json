@@ -1,0 +1,22 @@
+[
+    {
+        "key": 1,
+        "tittle": "Food Order API using MERN Stack with selenium Testing.",
+        "imageSrc": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description":"The purpose of this project is to develop a food delivery app using the MERN stack. The app allows users to order food items."
+        
+    },
+    {
+        "key": 2,
+        "tittle": "Fitness Tracker Application using MERN stack with Selenium Testing. ",
+        "imageSrc": "https://images.pexels.com/photos/863977/pexels-photo-863977.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "The fitness tracker website built with the MERN stack. It allows users to easily log exercises, set goals, and track progress ."
+    },
+    {
+        "key": 3,
+        "tittle": "Medical Records Management System with Selenium Testing",
+        "imageSrc": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "The Medical Records Management System integrates with the medical equipment and electronically sends the results to the doctors."
+    }
+    
+]

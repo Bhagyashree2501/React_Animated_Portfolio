@@ -1,0 +1,35 @@
+[
+    {
+        "tittle": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+
+    {
+        "tittle": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "tittle": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "tittle": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "tittle": "Node",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "tittle": "MongoDb",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "tittle": "ExpressJs",
+        "imageSrc": "skills/ex.png"
+    },
+    {
+        "tittle": "Postman",
+        "imageSrc": "skills/postman.png"
+    }
+]
