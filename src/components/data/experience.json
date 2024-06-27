@@ -5,7 +5,7 @@
         "organisation":"IT Brains Consultancy and Services Pvt Ltd",
         "startDate":"Dec 2021",
         "endDate":"Present",
-        "experinces":
+        "experiences":
             "Designed and developed front-end GUI over 15 applications using HTML, CSS, JavaScript and ReactJs."           
             ,
         "imageSrc": "company/ITB.jpg"
@@ -18,7 +18,7 @@
         "organisation":"IT Brains Consultancy and Services Pvt Ltd",
         "startDate":"Dec 2020",
         "endDate":"Nov 2021",
-        "experinces":"Tested of web UI and rest API. Used Postman for manual API tests."         
+        "experiences":"Tested of web UI and rest API. Used Postman for manual API tests."         
             ,
         "imageSrc": "company/ITB.jpg"
 
@@ -30,7 +30,7 @@
         "organisation":"Directorate Forensic Science Laboratories, (Home Dept.) Mumbai",
         "startDate":"Aug 2013",
         "endDate":"Mar 2016",
-        "experinces":"Plays a crucial role in software testing activities, identifying faults and bugs in forensic analysis software",
+        "experiences":"Plays a crucial role in software testing activities, identifying faults and bugs in forensic analysis software",
         "imageSrc": "company/FSL.jpg"
 
     }
