@@ -33,6 +33,24 @@ a{
   border-color: yellow;
 }
 
+@media (max-width:768px) {
+  
+    
+   .nav_bar{
+    width:100%;
+  
+    display: block;
+  }
+
+  .nav_items{
+    width:100%;
+    display:block;
+    align-items: end;
+  }
+  }
+
+
+
 /*Home Section*/
 
 .home {
@@ -218,6 +236,7 @@ a{
   .ex h1{
     padding:100px;
     margin:50px;
+    
     
   }
   .ex-items {
