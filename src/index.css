@@ -289,7 +289,15 @@ a{
   width: 70px;
 }
 
-@media (max-width:760px) {
+
+@media (max-width:760px){
+  .skills{
+  width: 100%;
+}
+}
+
+
+/*@media (max-width:760px) {
   .skills .items .item {
     
     display:flex;
@@ -297,7 +305,7 @@ a{
     
    
   }
-}
+}*/
 
 /*Contact*/
 
