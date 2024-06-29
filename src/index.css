@@ -234,8 +234,9 @@ a{
 @media (max-width: 768px) {
   
   .ex h1{
-    padding:100px;
+    padding:80px;
     margin:50px;
+  
     
     
   }
